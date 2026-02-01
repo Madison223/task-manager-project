@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.heading {
+  background-color: lightblue;
+  text-align: center;
+  color: white;
+}
+
+span {
+  padding: 10px;
+  border: solid;
+  border-color: green;
+}
+span:hover {
+  background-color: green;
+  color: white;
+}
